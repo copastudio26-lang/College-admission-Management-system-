@@ -16,7 +16,7 @@
     "@nestjs/platform-express": "^10.2.0",
     "class-transformer": "^0.5.3",
     "class-validator": "^0.14.1",
-    "reflect-metadata": "^0.10.1",
+    "reflect-metadata": "^0.1.13",
     "rxjs": "^7.6.2"
   },
   "devDependencies": {
